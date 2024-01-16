@@ -31,3 +31,7 @@ Feel free to contribute to this project by:
 It works well for Spanish, below is the output, i will try to test it for chinese and update the code 
 
 ![Alt text describing the image](sample.PNG)
+
+## update
+Works well for Chinese laaguage as well, just that I was not able to generate pdf due to chinese fonts imcompatibilty. There is only text file for now.
+![Alt text describing the image](chinese.PNG)

@@ -4,6 +4,7 @@
 
 This project provides a Python script that automatically transcribes Pimsleur audio files into PDF documents with timestamps. It's a handy tool for language learners who want to review Pimsleur lessons in text format, with easy navigation between different sections.
 
+
 ## Key Features
 
     Transcribes Pimsleur MP3 audio files into text
@@ -19,8 +20,12 @@ This project provides a Python script that automatically transcribes Pimsleur au
     fpdf
     setuptools-rust
     ffmpeg
+
 Feel free to contribute to this project by:
 
     Reporting any issues or bugs
     Suggesting new features
     Submitting pull requests with improvements
+## Sample for Spanish 
+
+![Alt text describing the image](sample.PNG)

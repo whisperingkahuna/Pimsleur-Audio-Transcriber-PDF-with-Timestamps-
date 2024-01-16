@@ -26,6 +26,8 @@ Feel free to contribute to this project by:
     Reporting any issues or bugs
     Suggesting new features
     Submitting pull requests with improvements
-## Sample for Spanish 
+
+## Sample 
+It works well for Spanish, below is the output, i will try to test it for chinese and update the code 
 
 ![Alt text describing the image](sample.PNG)
